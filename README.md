@@ -3,9 +3,9 @@ Desarrollo de unha secuencia en arduino con RGB Led
 
 ```
 Curso       : 2023/24
-Área        : Sistemas operativos, servidor, instalar, PXE
-Descripción : Servidor de instalaciones PXE con OpenSUSE
-Requisitos  : GNU/Linux OpenSUSE, VirtualBox
+Área        : MEME, Arduino
+Descripción : Desarrollo de unha secuencia en arduino con RGB Led
+Requisitos  : WOKWI, Arduino, BreadBoard
 Tiempo      : 8 horas
 ```
 > Enlaces de interés: [**Project**](https://wokwi.com/projects/390518841931996161)
